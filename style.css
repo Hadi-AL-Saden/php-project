@@ -1,0 +1,17 @@
+body{
+
+    text-align: center;
+    
+}
+button{
+    width: 400px;
+    height: 60px;
+    
+}
+.btn-lg{
+    border-radius: 60px;
+}
+img{
+    width: 600px;
+    height: 400px;
+}

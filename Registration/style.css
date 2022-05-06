@@ -1,0 +1,35 @@
+
+
+.signUp_form h1{
+    color: #000000
+}
+.signUp_form p{
+    color:#000000
+}
+.col-lg-6{
+    padding-left: 0;
+}
+input{
+    margin: 0 10px 10px 0px;
+    width: 100%;
+}
+h1{
+    margin-bottom: 20px;
+}
+p{
+    margin-bottom: 50px;
+}
+.singUp-fields{
+    margin: auto;
+    width: 65%;
+}
+img{
+    padding: 20px;
+    margin-top: 70%;
+    margin-left: 60px;
+}
+.btn
+{
+    left: 19%;
+    margin-top: 10px;
+}
